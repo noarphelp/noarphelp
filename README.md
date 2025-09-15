@@ -14,10 +14,10 @@ Apasionado por la optimización de código, mejora continua y aprendizaje de nue
 ---
 
 ### 🚀 Sobre mí
-- 🔭 Actualmente trabajando en **Backend con Java y Spring Boot**.  
-- 🌱 Aprendiendo **Microservicios avanzados y Arquitecturas en la Nube**.  
+- 🔭 Estudios en  **Backend con Java y Spring Boot**.  
+- 🌱 Aprendi **Microservicios avanzados y Arquitecturas en la Nube**.  
 - 👯 Busco colaborar en proyectos de **Backend y Microservicios**.  
-- 🤔 Interesado en contribuciones a **Open Source**.  
+- 🤔 Interesado en nuevas oportunidades laborales.  
 - 💬 Pregúntame sobre **Java, Spring Boot, APIs REST y Microservicios**.  
 
 ---
@@ -98,6 +98,7 @@ MySQL
 
 ---
 
+---
 
 ### 📬 Conecta conmigo
 
