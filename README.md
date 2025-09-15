@@ -1,6 +1,8 @@
-[![ProfileBanner](https://github.com/noarphelp/noarphelp/blob/main/Images/Banner%20Image.png)](https://github.com/noarphelp)
+
 
 # 👋 Hola, soy Nicolás Fernández
+
+---
 
 **Desarrollador Backend en Java y Spring Boot**, especializado en el diseño y desarrollo de aplicaciones web seguras, escalables y de alto rendimiento.  
 Experto en arquitecturas multicapa y microservicios, APIs REST y bases de datos relacionales. Aplico **principios SOLID** y **Clean Code** para garantizar software de calidad y mantenible.  
@@ -96,11 +98,15 @@ MySQL
 
 ---
 
+
 ### 📬 Conecta conmigo
 
 
 <a href="https://github.com/noarphelp"><img align="left" alt="GitHub" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" /></a>
-<a href="https://www.linkedin.com/in/nicol%C3%A1s-fern%C3%A1ndez-123456789/"><img align="left" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/LinkedIn_Logo_2023.png" /></a>
+<a href="https://www.linkedin.com/in/nicolas-fernandez-2a4b18245/">
+  <img align="left" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/LinkedIn_Logo_2023.png" />
+</a>
+
 
 
 
