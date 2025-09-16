@@ -104,9 +104,8 @@ MySQL
 
 
 <a href="https://github.com/noarphelp"><img align="left" alt="GitHub" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" /></a>
-<a href="https://www.linkedin.com/in/nicolas-fernandez-2a4b18245/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" />
-</a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-fernandez-2a4b18245/)
 
 
 
