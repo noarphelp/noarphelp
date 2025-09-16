@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="bannerGit" src="https://github.com/user-attachments/assets/9d7f3aca-37ea-45d6-b705-a445f930dfe3" />
 
 
 # 👋 Hola, soy Nicolás Fernández
