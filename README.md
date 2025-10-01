@@ -27,7 +27,7 @@ Apasionado por la optimización de código, mejora continua y aprendizaje de nue
 
 **Lenguajes:**  
 Java, JakartaEE, SQL  
-**Básico:** HTML, CSS, JS, Angular, Flutter  
+**Básico:** HTML, CSS, JS,TS, Angular, Flutter  
 
 **Frameworks y librerías:**  
 Spring Boot, Spring Cloud, Spring Security, JPA, Hibernate, Maven, Swagger, Mockito, JUnit, JSP, Servlet  
@@ -39,7 +39,7 @@ MVC, Arquitectura Multicapa, Microservicios, RESTful APIs
 OAuth2, JWT, autenticación y autorización  
 
 **Herramientas:**  
-Docker, Git, Maven, Kubernetes, SonarQube, IntelliJ IDEA, NetBeans, VS Code, Postman  
+Docker, Git, Maven, SonarQube, IntelliJ IDEA, NetBeans, VS Code, Postman  
 
 **Bases de datos:**  
 MySQL  
