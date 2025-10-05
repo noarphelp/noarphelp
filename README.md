@@ -108,7 +108,7 @@ MySQL
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-fernandez-2a4b18245/)
 
-[![favicon](https://noarphelp.github.io/favicon.ico) Mi Portafolio Web](https://noarphelp.github.io)
+ <a href="https://noarphelp.github.io">Mi Portafolio Web </a>
 
 
 
